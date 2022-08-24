@@ -1,0 +1,24 @@
+.web_logo{
+    background-color: #000;
+    height: 40px;
+    width: 180px;
+    position: relative;
+    display: inline-block;
+}
+.main_navbar{
+    display: flex;
+    gap: 2rem;
+    padding: 1.5rem;
+    justify-content: space-between;
+    background-color: #000;
+    color: aliceblue;
+    position: fixed;
+    width: 100%;
+}
+.nav_box1{
+    display: flex;
+    gap: 2rem;
+}
+.modal_body{
+  margin-top: 70px;
+}
