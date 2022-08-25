@@ -8,8 +8,6 @@ import {
     useDisclosure,
     Box,Text, Flex
   } from '@chakra-ui/react';
-
-import styles from "./Navbar.module.css";
 import SkillList from './SkillList';
 
 function Platform() {
