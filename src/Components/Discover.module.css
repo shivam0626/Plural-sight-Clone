@@ -27,11 +27,27 @@
 }
 .story_box{
     background-color: teal;
-    padding: 2rem;
-    width: 50%;
+    padding: 5rem;
+    width: 40%;
+
 }
 .text{
     color: white;
     font-size: 20px;
     margin-top: 1.5rem;
+}
+.story_main_box{
+    display: flex;
+    height: 500px;
+    margin-top: 5rem;
+}
+.image_box{
+    background-image: url("https://www.pluralsight.com/content/pluralsight/en/jcr:content/main/targeted_section/targeted-parsys-customer-types-1/generic_block/parsys/columns/column-parsys-1/generic_block/image-res.img.eda54712-d00b-4274-9506-7e06a0a9c4c1.png");
+    background-repeat: no-repeat;
+    width: 60%;
+    padding:6rem 18rem 6rem 2rem;
+    color: black;
+    background-position: center ;
+    background-size: cover;
+    height: 100%;
 }
