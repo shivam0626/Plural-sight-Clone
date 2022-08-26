@@ -1,0 +1,27 @@
+.footer_main{
+    background-color: rgb(35, 35, 35);
+    color: white;
+    padding-top:6rem;
+    padding-bottom: 2rem;
+}
+.listbox{
+    padding-left: 6rem;
+    margin-bottom: 5rem;
+}
+.text{
+    font-size: 13px;
+    line-height: 30px;
+    color: rgb(141, 135, 135);
+}
+.text:hover{
+    color: white;
+}
+.divider{
+    text-align: center;
+    color: rgb(141, 135, 135);
+}
+.lan_flex{
+    color: rgb(141, 135, 135);
+    font-size:13px;
+    padding: 1.5rem 0rem;
+}

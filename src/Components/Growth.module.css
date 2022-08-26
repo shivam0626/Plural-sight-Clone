@@ -1,0 +1,33 @@
+.growth_main{
+    background-image: url("https://www.pluralsight.com/content/pluralsight/en/jcr:content/main/generic_block_1609496607/image-res.img.8377a1d0-97d6-4d21-b150-b57af534a17c.jpg");
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.img{
+    padding-top: 2rem;
+    margin-left: -1rem;
+}
+.heading{
+    padding: 1.5rem;
+    width: 50%;
+}
+.text{
+    font-size: 18px;
+    width: 55%;
+    padding: 1.5rem;
+}
+.btn{
+    margin-left: 1.5rem;
+    margin-bottom: 5rem;
+}
+.insight_flex{
+    justify-content: space-between;
+    padding: 6rem 1.5rem;
+    background-color: rgb(17, 16, 16);
+    color: white;
+}
+.insight_btn{
+    padding: 0rem 2rem;
+}

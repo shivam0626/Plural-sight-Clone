@@ -4,6 +4,9 @@ import {Box} from "@chakra-ui/react"
 import PopularTopics from "../Components/PopularTopics"
 import LatestFeatures from "../Components/LatestFeatures"
 import Discover from "../Components/Discover"
+import Growth from "../Components/Growth"
+import Insight from "../Components/Insight"
+import Footer from "../Components/Footer"
 
 const Home = ()=>{
     return(
@@ -13,6 +16,9 @@ const Home = ()=>{
             <PopularTopics />
             <LatestFeatures />
             <Discover />
+            <Growth />
+            <Insight />
+            <Footer />
         </Box>
     )
 }
