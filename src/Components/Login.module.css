@@ -1,0 +1,43 @@
+.login_box{
+    background-color: rgb(8, 8, 8);
+    color: white;
+    padding:2rem;
+    padding-bottom: 0;
+}
+.img{
+    width: 300px;
+   
+}
+.btn{
+    width: 300px;
+    margin-top: 2rem;
+}
+.text{
+    font-size: 12px;
+    margin-top: 2rem;
+}
+.link_flex{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 5px;
+}
+.link:hover{
+    color:grey;
+}
+.img_box{
+    background-image: url("https://app.pluralsight.com/id/img/login-bg.jpg");
+    background-repeat: no-repeat;
+    width: 60%;
+    background-position: 50%;
+    background-size: cover;
+    align-items: center;
+    color: white;
+}
+.heading_flex{
+    margin-top: 15rem;
+    margin-left: 7rem;
+}
+.trial_btn{
+    margin-left: 18rem;
+    margin-top: 3rem;
+}
