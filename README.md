@@ -1,5 +1,5 @@
 
-# Kimaye.com Clone
+# Pluralsight.com Clone
 
 ## Summary
 In this Contruct week, I tried to clone the website Pluralsight.com. Pluralsight, LLC is an American privately held online education company that offers a variety of video training courses for software developers, IT administrators, and creative professionals through its website. Founded in 2004 by Aaron Skonnard, Keith Brown, Fritz Onion, and Bill Williams,
